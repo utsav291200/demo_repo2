@@ -1,0 +1,15 @@
+docker push me-central2-docker.pkg.dev/prj-d-dmo-dwh-restricted-lc2c/mat-d-python-job/python-umrah-acl-etl
+
+docker build -t me-central2-docker.pkg.dev/prj-d-dmo-dwh-restricted-lc2c/mat-d-python-job/python-umrah-acl-etl:v2 .
+
+
+me-central2-docker.pkg.dev/prj-p-dmo-dwh-restricted-4hj8/me-central2-docker-registry
+
+me-central2-docker.pkg.dev/prj-p-dmo-dwh-restricted-4hj8/me-central2-docker-registry/<project name>
+
+
+
+me-central2-docker.pkg.dev/prj-d-dmo-dwh-restricted-lc2c/cloud-run-source-deploy
+
+
+I want to learn about Git and Github. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
